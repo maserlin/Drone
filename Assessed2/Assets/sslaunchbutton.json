@@ -1,0 +1,20 @@
+{"frames": {
+
+"launchbutton.png":
+{
+	"frame": {"x":0,"y":0,"w":329,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":329,"h":66},
+	"sourceSize": {"w":333,"h":69}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sslaunchbutton.png",
+	"format": "RGBA8888",
+	"size": {"w":329,"h":66},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5b1ac8788f6e2e06af69def8e9d47de5:d88e2d25d303e416e4d0594bbb0f8910:4c91bb78e98c0b5cd6d2935c966973fc$"
+}
+}

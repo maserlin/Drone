@@ -1,0 +1,4 @@
+<Drone>
+	<Stakes value="0.10,0.20,0.50,1,1,2,5,10" />
+	<Prizes multiplier="1,2,4,10,50,100" weight="20,15,12,10,5,3" />
+</Drone>

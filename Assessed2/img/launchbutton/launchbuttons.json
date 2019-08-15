@@ -1,0 +1,47 @@
+{"frames": {
+
+"launchbutton-0.png":
+{
+	"frame": {"x":1,"y":1,"w":79,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":65},
+	"sourceSize": {"w":79,"h":65}
+},
+"launchbutton-1.png":
+{
+	"frame": {"x":82,"y":1,"w":79,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":65},
+	"sourceSize": {"w":79,"h":65}
+},
+"launchbutton-2.png":
+{
+	"frame": {"x":163,"y":1,"w":79,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":65},
+	"sourceSize": {"w":79,"h":65}
+},
+"launchbutton-3.png":
+{
+	"frame": {"x":244,"y":1,"w":79,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":65},
+	"sourceSize": {"w":79,"h":65}
+}},
+"animations": {
+	"launchbutton": ["launchbutton-0.png","launchbutton-1.png","launchbutton-2.png","launchbutton-3.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "launchbuttons.png",
+	"format": "RGBA8888",
+	"size": {"w":324,"h":67},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a588c57375d777c03ac648455ff1c9bd:51ca2216b83e45cb19ff467aca3e9bc6:1bd75f5ab3ec360485bf2128dbba5186$"
+}
+}
